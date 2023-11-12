@@ -27,5 +27,4 @@ int result = 0;
 
         result = (a / c) % 10;
     }
-return result;
 }
